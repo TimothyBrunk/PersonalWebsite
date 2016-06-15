@@ -329,7 +329,7 @@ you can use the generic selector below, but it's slower:
 	content: "\e060";
 }
 .icon-shield:before {
-	content: "\e061";
+	content: "";
 }
 .icon-lightning:before {
 	content: "\e062";
